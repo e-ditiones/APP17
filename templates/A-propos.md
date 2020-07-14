@@ -1,4 +1,5 @@
-<div class="body-1">
+<div class="body-text">
+	
 
 # À propos du projet
 
