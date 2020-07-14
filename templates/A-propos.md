@@ -1,4 +1,5 @@
-<div class="body">
+<div class="body-1">
+
 # À propos du projet
 
 Le projet e-ditiones a pour objectif la constitution d'un corpus de manuscrits et d'imprimés du XVIIe siècle français. Pour y parvenir, le projet s'appuie sur l'exploitation des catalogues de ventes de manuscrits et de lettres autographes du XIXe siècle.
