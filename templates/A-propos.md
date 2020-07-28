@@ -10,7 +10,7 @@ Les textes, après OCRisation, sont encodés en XML-TEI suivant un *workflow* en
 # À propos de l'équipe
 
 Le projet est conduit par Simon Gabay, maître assistant en humanités numériques de l'Université de Genève et spécialiste en philologie. 
-Il est assisté par Ljudmila Petkovic, spécialiste en traitement automatique de la langue (TAL) et Alexandre Bartz, étudiant en humanités numériques de l'École nationale des chartes.
+Il est assisté par Ljudmila Petkovic, spécialiste en traitement automatique des langues (TAL) et Alexandre Bartz, étudiant en humanités numériques de l'École nationale des chartes.
 
 # Ressources
 
