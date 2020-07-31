@@ -9,7 +9,7 @@
 
 Vous trouverez les différentes oeuvres consultables en cliquant sur l'index.</p>
 
-<img src="resources/images/logo_e-ditiones.png" width="40%">
+<img src="resources/images/logo_e-ditiones.png" width="45%">
 
 </div>
 
