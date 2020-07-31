@@ -18,6 +18,7 @@ Il est assisté par Ljudmila Petkovic, spécialiste en traitement automatique de
 
 * [GitHub](https://github.com/e-ditiones)
 * [Carnet de recherche](https://editiones.hypotheses.org/)
+* [Twitter](https://twitter.com/e_ditiones)
 
 <h2 class="marging">Ressources annexes et bibliographie</h2>
 
