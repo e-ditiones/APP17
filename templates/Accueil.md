@@ -1,6 +1,6 @@
-<div class="body-text">
+<div class="container">
 
-# Bibliothèque virtuelle du projet E-Ditiones
+<h1 class="main-title">Bibliothèque virtuelle du projet E-Ditiones</h1>
 
 Bienvenue sur la page d'accueil de la bibliothèque virtuelle du projet E-Ditiones.
 
