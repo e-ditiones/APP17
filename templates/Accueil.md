@@ -6,6 +6,8 @@
 
 <p>Cette bibliothèque présente un corpus de manuscrits et d'imprimés du XVIIe siècle français encodés en XML-TEI.
 
-L'index présente les différentes oeuvres disponibles.</p>
+Vous trouverez dans l'index les différentes oeuvres consultables.</p>
+
+<img src="resources/images/logo_e-ditiones.png" width="40%">
 
 </div>
