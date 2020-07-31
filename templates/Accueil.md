@@ -1,4 +1,4 @@
-<div class="container-fluid">
+<div class="container">
 
 <h1 class="main-title">Bibliothèque virtuelle du projet E-Ditiones</h1>
 
