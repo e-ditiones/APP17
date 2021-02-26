@@ -2,6 +2,13 @@
 
 This repository contains the digital library of the project developed with [TEI Publisher (6.0.0)](https://teipublisher.com/index.html).
 
+The application is available online : https://e-ditiones.huma-num.fr
+
+## Installation
+
+If you want to download and access localoy to the application, you need to download [exist-db](http://exist-db.org/exist/apps/homepage/index.html) and make it run.
+Then you can upload APP17 in the *Package manager* and access to the app.
+
 ## Credits
 
 This repository is developed by Alexandre Bartz with the help of Simon Gabay, as part of the [_E-ditiones_](https://github.com/e-ditiones) project.
